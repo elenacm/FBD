@@ -1,0 +1,7 @@
+Se pueden descargar datos de ejemplo y consultas para WinRDBI desde:
+
+https://winrdbi.asu.edu/samples.html
+
+El manual de usuario se encuentra en (acceso sólo online):
+
+https://winrdbi.asu.edu/UserGuide/UsersGuide.html

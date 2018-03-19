@@ -1,0 +1,5 @@
+WinRDBI se descarga desde:
+
+https://winrdbi.asu.edu/download.html
+
+Solicita registro, aunque la descarga es gratuita. Requiere autenticación por e-Mail.
